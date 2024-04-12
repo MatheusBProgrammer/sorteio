@@ -96,6 +96,7 @@ function App() {
           )}
         </div>
       </div>
+      <p>© 2024 Matheus Barreto | Desenvolvido por MatheusBProgrammer</p>
     </div>
   );
 }
